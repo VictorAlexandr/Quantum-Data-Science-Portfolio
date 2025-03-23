@@ -1,1 +1,1 @@
-# Quantum-Data-Science-Portfolio
+# Quantum Data Science Portfolio

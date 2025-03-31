@@ -35,3 +35,27 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/aeccdabc-60a1-4386-9099-0cea0501ca91)
 ![image](https://github.com/user-attachments/assets/d6379896-58f0-49b0-9474-b4fcd9cb3dd5)
 
+## Projetos Assinatura
+### Projetos em Biotecnologia Quântica
+![image](https://github.com/user-attachments/assets/08658aa5-a681-4547-824e-2f76719a10fa)
+![image](https://github.com/user-attachments/assets/85a9489b-f394-47ef-a842-2e0b2eca8c81)
+![image](https://github.com/user-attachments/assets/ba04f9f7-6d3c-4abe-9ab4-2e6896d15903)
+
+### Projetos em Quantum Machine Learning
+![image](https://github.com/user-attachments/assets/eb66f611-053a-45f6-a93a-ece94cf107cc)
+![image](https://github.com/user-attachments/assets/a5a60d53-edf1-45be-a8b1-a56d1c4cfc4e)
+![image](https://github.com/user-attachments/assets/2e35c0f5-de26-4e7b-900b-711173d98ac1)
+
+### Projetos em Otimização Quântica
+![image](https://github.com/user-attachments/assets/cd84aecd-1317-45ad-86fa-7e859018a145)
+![image](https://github.com/user-attachments/assets/b130fe41-7135-44f7-bb63-0c2f3f137e48)
+
+### Projetos em Simulação Química Avançada
+![image](https://github.com/user-attachments/assets/17b6ea84-017b-4513-b95c-a76360704991)
+![image](https://github.com/user-attachments/assets/797d663f-d806-4b89-99de-cfb3a0fcadf5)
+
+
+
+
+
+

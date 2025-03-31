@@ -11,54 +11,27 @@ ________________________________________________________________________________
 
 ## 🚀 Projetos
 
-### 1. Otimização de Portfólio Financeiro com QAOA
-**📝 Descrição:** Implementação do Quantum Approximate Optimization Algorithm para otimização de carteiras de investimento  
-**🛠️ Ferramentas:** Qiskit, Yahoo Finance API  
-**🔗 Dataset:** S&P 500 (2020-2023)  
-**💡 Destaque:** Primeiro projeto com integração direta a dados financeiros reais
+### PILAR 1: SIMULAÇÃO DE MOLÉCULAS (H₂O, LiH, PROTEÍNAS)
+![image](https://github.com/user-attachments/assets/a1591d1a-f629-494a-bbe8-4486309b5cc4)
+![image](https://github.com/user-attachments/assets/91c02e5c-99a9-4cfa-a15c-2ad927d15c41)
+![image](https://github.com/user-attachments/assets/fb28ace2-46eb-41f7-b96e-cfabb47b1680)
+![image](https://github.com/user-attachments/assets/f1fb2c49-7fff-4f7f-bef0-2c87076b6779)
+![image](https://github.com/user-attachments/assets/a994cc22-9c07-4082-ba38-ce5fa0bffaed)
+![image](https://github.com/user-attachments/assets/e39e1d60-0123-499c-8d37-494fba69026d)
 
-### 2. Classificação com Redes Neurais Quânticas
-**📝 Descrição:** Classificador de imagens MNIST usando Variational Quantum Circuits  
-**🛠️ Ferramentas:** PennyLane, PyTorch  
-**💡 Destaque:** Hibridização quântico-clássica
 
-### 3. Detecção de Anomalias em Transações
-**📝 Descrição:** Sistema de detecção de fraudes com Quantum Support Vector Machines  
-**🛠️ Ferramentas:** Qiskit Machine Learning  
-**🔗 Dataset:** Kaggle Credit Card Fraud
+### PILAR 2: OTIMIZAÇÃO DE PROTEÍNAS/RNA (QAOA, GNNS)
+![image](https://github.com/user-attachments/assets/8dfe8086-249c-4cb5-8678-a80aed2657cb)
+![image](https://github.com/user-attachments/assets/a562f2b0-a1dc-4af2-9b48-7e2c5079ac9e)
+![image](https://github.com/user-attachments/assets/3991b669-de99-415d-82f8-17750f721b5e)
+![image](https://github.com/user-attachments/assets/e258b5ca-02d8-4bb5-a93b-5cc01ade69b0)
+![image](https://github.com/user-attachments/assets/0df8d293-e244-48cb-be03-ad1c9989d631)
 
-### 4. Clusterização Quântica com Q-Means
-**📝 Descrição:** Implementação de algoritmo K-Means quântico para segmentação de clientes  
-**🛠️ Ferramentas:** Qiskit, Scikit-learn  
-**💡 Destaque:** Aplicação em marketing analytics
 
-### 5. Redução de Dimensionalidade com QPCA
-**📝 Descrição:** Quantum Principal Component Analysis para visualização de dados  
-**🛠️ Ferramentas:** Qiskit, Matplotlib  
-**🔗 Dataset:** Breast Cancer Wisconsin  
-**💡 Destaque:** Redução de 30 para 2 features
+### PILAR 3: MACHINE LEARNING HÍBRIDO (TFQ + ALPHAFOLD)
+![image](https://github.com/user-attachments/assets/5279dc7f-f7bf-4cae-bb5e-30eec3ba2b26)
+![image](https://github.com/user-attachments/assets/b9cd2f02-2b1e-4238-a987-bc06fa39bd5c)
+![image](https://github.com/user-attachments/assets/7e2ddfb3-295d-472d-ae9f-44d30b303a1e)
+![image](https://github.com/user-attachments/assets/aeccdabc-60a1-4386-9099-0cea0501ca91)
+![image](https://github.com/user-attachments/assets/d6379896-58f0-49b0-9474-b4fcd9cb3dd5)
 
-### 6. Análise de Sentimento Quântica
-**📝 Descrição:** Classificador de sentimentos usando embeddings quânticos  
-**🛠️ Ferramentas:** PennyLane, Hugging Face  
-**🔗 Dataset:** IMDb Reviews
-
-### 7. Previsão de Séries Temporais
-**📝 Descrição:** Modelo quântico-hibrido para prever preços de ações  
-**🛠️ Ferramentas:** Qiskit, TensorFlow  
-**💡 Destaque:** Integração com LSTM clássico
-
-### 8. Simulação Molecular com VQE
-**📝 Descrição:** Cálculo da estrutura eletrônica da molécula de LiH  
-**🛠️ Ferramentas:** Qiskit Nature  
-**💡 Destaque:** Aplicação em química quântica
-
-### 9. Recomendação Quântica
-**📝 Descrição:** Sistema de recomendação usando algoritmos de amplitude  
-**🛠️ Ferramentas:** Qiskit, MovieLens Dataset  
-**💡 Destaque:** Nova abordagem para filtros colaborativos
-
-### 10. Chatbot Quântico
-**📝 Descrição:** Protótipo usando Quantum Natural Language Processing  
-**🛠️ Ferramentas:** PennyLane, Transformers  
-**💡 Destaque:** Integração com GPT-3 via API

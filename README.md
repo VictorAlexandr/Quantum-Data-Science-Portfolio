@@ -11,29 +11,37 @@ ________________________________________________________________________________
 
 ## 🚀 Projetos
 
-### PILAR 1: SIMULAÇÃO DE MOLÉCULAS (H₂O, LiH, PROTEÍNAS)
-![image](https://github.com/user-attachments/assets/a1591d1a-f629-494a-bbe8-4486309b5cc4)
-![image](https://github.com/user-attachments/assets/91c02e5c-99a9-4cfa-a15c-2ad927d15c41)
-![image](https://github.com/user-attachments/assets/fb28ace2-46eb-41f7-b96e-cfabb47b1680)
-![image](https://github.com/user-attachments/assets/f1fb2c49-7fff-4f7f-bef0-2c87076b6779)
-![image](https://github.com/user-attachments/assets/a994cc22-9c07-4082-ba38-ce5fa0bffaed)
-![image](https://github.com/user-attachments/assets/e39e1d60-0123-499c-8d37-494fba69026d)
+### PILAR 1: SIMULAÇÃO MOLECULAR E DESCOBERTA DE FÁRMACOS
+(Foco: Química Quântica, VQE, Interações Moleculares)
+
+![image](https://github.com/user-attachments/assets/8df000ea-3f56-4f4e-981a-bdf5608a9834)
+![image](https://github.com/user-attachments/assets/55f708f2-280a-477a-b6f3-a47889c0e302)
+![image](https://github.com/user-attachments/assets/7e6ec079-aa03-4e9e-bf2e-5df2f663c559)
+![image](https://github.com/user-attachments/assets/6ef135d5-1582-4e8c-962b-0f9f4238aa74)
+![image](https://github.com/user-attachments/assets/75f74cff-509a-4545-85de-fbb1bf4b6dc7)
 
 
-### PILAR 2: OTIMIZAÇÃO DE PROTEÍNAS/RNA (QAOA, GNNS)
-![image](https://github.com/user-attachments/assets/8dfe8086-249c-4cb5-8678-a80aed2657cb)
-![image](https://github.com/user-attachments/assets/a562f2b0-a1dc-4af2-9b48-7e2c5079ac9e)
-![image](https://github.com/user-attachments/assets/3991b669-de99-415d-82f8-17750f721b5e)
-![image](https://github.com/user-attachments/assets/e258b5ca-02d8-4bb5-a93b-5cc01ade69b0)
-![image](https://github.com/user-attachments/assets/0df8d293-e244-48cb-be03-ad1c9989d631)
+
+### PILAR 2: OTIMIZAÇÃO QUÂNTICA EM PROBLEMAS BIOLÓGICOS
+(Foco: QAOA, Formulação QUBO, Otimização Combinatória)
+
+![image](https://github.com/user-attachments/assets/e8557a4f-f13e-49ec-984d-ea95ffdf7901)
+![image](https://github.com/user-attachments/assets/1b1c30e3-e792-48be-87dd-6d59eb4894bf)
+![image](https://github.com/user-attachments/assets/92995ccf-6bcf-40ec-b988-1867cf99e790)
+![image](https://github.com/user-attachments/assets/ddab1070-1ee9-4e08-ba10-25f7294f3997)
+![image](https://github.com/user-attachments/assets/8aa6cf26-1df2-4344-81bb-3a54bdb7fdcc)
 
 
-### PILAR 3: MACHINE LEARNING HÍBRIDO (TFQ + ALPHAFOLD)
-![image](https://github.com/user-attachments/assets/5279dc7f-f7bf-4cae-bb5e-30eec3ba2b26)
-![image](https://github.com/user-attachments/assets/b9cd2f02-2b1e-4238-a987-bc06fa39bd5c)
-![image](https://github.com/user-attachments/assets/7e2ddfb3-295d-472d-ae9f-44d30b303a1e)
-![image](https://github.com/user-attachments/assets/aeccdabc-60a1-4386-9099-0cea0501ca91)
-![image](https://github.com/user-attachments/assets/d6379896-58f0-49b0-9474-b4fcd9cb3dd5)
+
+### PILAR 3: MACHINE LEARNING HÍBRIDO QUÂNTICO-CLÁSSICO
+(Foco: TFQ/PennyLane, Classificação/Regressão, Integração Quântico-Clássico)
+
+![image](https://github.com/user-attachments/assets/cca8e2f6-63a3-4e48-9ab9-8b9e2218c514)
+![image](https://github.com/user-attachments/assets/c6603f8d-1547-4ab5-be70-81b10205e0e1)
+![image](https://github.com/user-attachments/assets/2d9e339a-650e-401c-82ea-dbdaba08f836)
+![image](https://github.com/user-attachments/assets/f4176a7e-df41-4479-bf32-49d18e3e1547)
+![image](https://github.com/user-attachments/assets/cca165fc-66b4-48e2-b23a-c667b1590cda)
+
 
 ## Projetos Assinatura
 ### Projetos em Biotecnologia Quântica
